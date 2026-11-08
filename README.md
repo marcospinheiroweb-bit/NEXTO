@@ -27,3 +27,5 @@ Abra `index.html` em um navegador para visualizar a página. Para testar instala
 ## Estrutura
 
 `index.html`, `css/styles.css`, `js/main.js`, `assets/`, `imgs/` (capas), `pdfcatalogos/` (3 PDFs), `manifest.json`, `sw.js`, `offline.html`, páginas legais.
+
+Site NEXTO — publicação GitHub Pages.
